@@ -1,8 +1,4 @@
-LastName - Player's last name
-FirstName - Player's first name
-Date - Match date
-Start - Starting lineup (1 - in start, 0 - from bench)
-Pos - Position
+
 
 
 
