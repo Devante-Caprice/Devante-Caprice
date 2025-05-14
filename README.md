@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...He/him
 - ⚡ Fun fact: ... I do read a lot. Right now I am currently reading Of Mice and Men by John Steinbeck
 -->
+[README.md](https://github.com/user-attachments/files/20208267/README.md)
