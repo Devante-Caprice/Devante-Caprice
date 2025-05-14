@@ -106,12 +106,6 @@ COYG!
 
 ### Acknowledgements
 
-The data is gathered from several sources including transfermarkt, flashscore and fbref.com.
-
-### Author
-
-Rustem "bokushi" N.\
-Ufa, Russian Federation
 
 
 [goalkeepers.csv](https://github.com/user-attachments/files/20216840/goalkeepers.csv)
