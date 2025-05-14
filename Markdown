@@ -1,1 +1,16 @@
 # Markdown syntax guide
+
+## Emphasis
+
+
+
+
+
+
+
+
+
+
+
+
+
