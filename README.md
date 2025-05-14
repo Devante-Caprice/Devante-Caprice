@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I do read a lot. Right now I am currently reading Of Mice and Men by John Steinbeck
 -->
 [README.md](https://github.com/user-attachments/files/20208267/README.md)
+[goalkeepers.csv](https://github.com/user-attachments/files/20214194/goalkeepers.csv)
+[players.csv](https://github.com/user-attachments/files/20214193/players.csv)
+[matches.csv](https://github.com/user-attachments/files/20214192/matches.csv)
