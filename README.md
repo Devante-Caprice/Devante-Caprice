@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!--
-**Devante-Caprice/Sport Analyst is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**my name is Devante-Caprice/Sport Analyst is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am a Computing graduate with a passion in Data Analysis surrounding the area of AI and Machine Learning. Having had the opportunity to work in retail for 6 years from 2010-2016, I have been able to develop a range of skills including the ability to work collaboratively with others, communicating a diverse range of people effectively as well as individually, and demonstrating the ability to problem solve and work in a systematic approach.
 Here are some ideas to get you started:
 
