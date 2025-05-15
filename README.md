@@ -1,37 +1,97 @@
 ## Hi there 👋
-<!--
-**my name is Devante-Caprice/Sport Analyst is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am a Computing graduate with a passion in Data Analysis surrounding the area of AI and Machine Learning. Having had the opportunity to work in retail for 6 years from 2010-2016, I have been able to develop a range of skills including the ability to work collaboratively with others, communicating a diverse range of people effectively as well as individually, and demonstrating the ability to problem solve and work in a systematic approach.
-- 🔭 I’m currently working on a government funded course. As I am currently enrolled on a 8 week intensive Digital Skills Bootcamp in Data with Just IT training. Looking to consolidate my skills further to become a qualified Data Analyst. Working on serval projects to develop my online GitHub portfolio.
-- 🌱 I’m currently learning all things associated with data. This includes Data, Big Data, Data Structure, Data Architectures and Governance. 
--Data Analysis using MS Excel
-- Introduction to Data Visualisation using MS Excel, Tableau and Power BI
-- Data Analytics- Power BI
-- Introduction to Database- Access and SQL Assignment
-- Azure Fundamentals- Module 1- core data concepts- Software SAAS, Cloud
-- Azure Fundamentals- Module 2- relational data in Azure (DB)
-- Azure Fundamentals- Module 3- Non-relational data in Azure (DB)
-- Azure Fundamentals- Module 4- Fundamentals of data analytics
-- Data Analysis via Python programming- Utilising Pandas, Matplotlib and Seaborn
-- 👯 I’m looking to collaborate on any project
-- 🤔 I’m looking for help with landing a job in Data Analyst that uses Excel or Tableau to analyse data.
-- 💬 Ask me about ...I am a massive Arsenal supporter hoping to land a Data Analyst role that uses Tableau or Excel to display data also I am 29 years old.
-- 📫 How to reach me: through email or LinkedIn
-- 😄 Pronouns: ...He/him
-- ⚡ I am a novel reader (currently reading Of Mice and Men by John Steinbeck), also a keen enthusiast of fitness (looking to join Taekwondo class when given time off from work).
+
 -->
 
-Dataset of Arsenal matches and player statistics from 2017/18 season until 28.02.2023.
 
 ### Context
 
 Ever since I started working with data, I've always wanted to break down the statistics of my favorite football club, Arsenal FC. So, I put together this dataset so that you too can dive into the world of football and the world of Arsenal in particular.
 
 ### Content
+Introduction
+Project Purpose 
+Data Details
+Usage Instructions
+Notes
+Acknowledgements
+Contact
 
-This dataset includes **214** results of Arsenal FC matches starting from 2017/18 season up to 28.02.2022, **2741** record of every player, who played in these matches with advanced statistics and **218** records of every goalkeeper.
+`Project Purpose
+This project was created to satisfy a long-standing curiosity about Arsenal FC's performance metrics. The dataset is perfect for:
 
-`players.csv` includes the following columns:
+Building predictive models for match outcomes.
+Visualizing player performance trends.
+Exploring advanced football analytics.
+Dataset Details
+The repository includes the following datasets:
+
+players.csv
+Contains detailed player statistics:
+
+Columns:
+LastName, FirstName, Date, Start, Pos, Min, G, A, PK, PKA, S, SoT, Touches, Tackles, Ints, Blocks, xG, npxG, xAG, Passes, PassesA, PrgPas, Carries, PrgCar, Line, C
+Example rows:
+Code
+Smith, John, 2023-02-28, 1, Midfielder, 90, 1, 2, 0, 0, 5, 3, 50, 4, 2, 1, 0.8, 0.6, 0.4, 45, 50, 5, 40, 5, Midfielder, 0
+goalkeepers.csv
+Contains goalkeeper-specific statistics:
+
+Columns:
+LastName, FirstName, Date, Start, Pos, Min, SoTA, GA, Saves, PSxG, PKatt, PKA, PKm, PassAtt, Throws, AvgLen, GKAtt, GKAvgLen, C
+Example rows:
+Code
+Doe, John, 2023-02-28, 1, Goalkeeper, 90, 5, 2, 7, 0.6, 1, 0, 0, 30, 10, 25.4, 20, 30.2, 0
+matches.csv
+Contains match-level statistics:
+
+Columns:
+Season, Tour, Date, Time, Opponent, HoAw, ArsenalScore, OpponentScore, Stadium, Attendance, Coach, Referee
+Example rows:
+Code
+2022/23, 25, 2023-02-28, 15:00, Chelsea, Home, 3, 1, Emirates Stadium, 60000, Mikel Arteta, Mike Dean
+Usage Instructions
+Download the Dataset:
+
+Clone the repository: git clone https://github.com/Devante-Caprice/Devante-Caprice.git
+Navigate to the dataset folder.
+Load the Data:
+
+Use Python, R, or Excel to load and explore the data. Example for Python:
+Python
+import pandas as pd
+players = pd.read_csv('players.csv')
+goalkeepers = pd.read_csv('goalkeepers.csv')
+matches = pd.read_csv('matches.csv')
+print(players.head())
+Analyze the Data:
+
+Create visualizations using tools like Tableau, Power BI, or Python libraries (e.g., Matplotlib, Seaborn).
+Notes
+The dataset will be updated with new matches and past seasons.
+Data is subject to corrections and improvements over time.
+Acknowledgements
+Special thanks to:
+
+goalkeepers.csv
+matches.csv
+players.csv
+Contact
+Email: [devantecaprice@hotmail.com]
+LinkedIn: [http://www.linkedin.com/devantecaprice]
+Pronouns: He/Him
+Fun Fact: Avid Arsenal supporter and fitness enthusiast, also novel reader (currently reading Of Mice and Men by John Steinbeck)
+
+
+
+
+
+
+
+
+
+
+
+players.csv` includes the following columns:
 
 -   `LastName` - Player's last name
 -   `FirstName` - Player's first name
