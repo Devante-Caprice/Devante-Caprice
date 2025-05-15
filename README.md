@@ -82,15 +82,6 @@ Pronouns: He/Him
 Fun Fact: Avid Arsenal supporter and fitness enthusiast, also novel reader (currently reading Of Mice and Men by John Steinbeck)
 
 
-
-
-
-
-
-
-
-
-
 players.csv` includes the following columns:
 
 -   `LastName` - Player's last name
@@ -158,6 +149,10 @@ players.csv` includes the following columns:
 -   `Referee` - Referee of the match
 
 ### Notes
+
+The dataset will be updated with new matches and past seasons.
+Data is subject to corrections and improvements over time.
+
 
 This dataset will be updated with new matches as well as for past seasons.
 COYG!
