@@ -1,6 +1,6 @@
 ## Hi there 👋
 
--->
+--> Welcome to my GitHub profile. My name is Devante and this is my profile my project is based on my favourite teaam which is Arsenal from 2017/18 season and I hope you will enjoy this and feel free to connect with me.
 
 
 ### Context
