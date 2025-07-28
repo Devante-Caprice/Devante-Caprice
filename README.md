@@ -24,6 +24,7 @@ Visualizing player performance trends.
 Exploring advanced football analytics.
 Dataset Details
 The repository includes the following datasets:
+[epl_player_stats_24_25.csv](https://github.com/user-attachments/files/21477951/epl_player_stats_24_25.csv)
 
 players.csv
 Contains detailed player statistics:
